@@ -1,0 +1,42 @@
+Assignment 1
+
+1. 
+The man saw the woman through a telescope.
+The woman with a telescope was seen by the man.
+
+2.
+After ten years, sisters reunited in checkout line at Safeway. 
+City authorities looking into why large hole appears in High Street.
+Mayor says bus passengers should wear seat belts.
+
+3.
+The original sentence is "NO HEAD INJURY IS TOO TRIVIAL TO IGNORE". The problem with this is that the structure "No [noun] is too [adjective] to [verb]" means "Any [noun], no matter how [adjective] can [verb]. For example, "No child is too small to play the Giant" means any child, no matter how small, can play that role in the school play (they probably have a great costume maker).
+
+So, the original sentence is erroneous, because it is actually saying that all head injuries, no matter how trivial, should be ignored. My versions for reformulating the sentence are:
+
+No head injury, even if trivial, should be ignored.
+
+4.
+The sign could be interpreted as "This is a case of fire (elevator), do not use the elevator."
+Reformulate: Do not use elevators if there is a fire.
+
+5.
+No, it's not true because the warning itself makes the page not blank. The purpose is to notify users that the page is blank on purpose and not a printing error.
+Reformulate: This page intentionally left blank, except for this statement.
+
+6.
+
+7.
+Temperature is just a number indicating how hot or cold something is. Therefore, the statement "The temperature is hot today" suggests that the number itself is somehow hot (to the touch?). A more accurate sentence would be "The temperature is high today."
+
+8.
+n=2
+3*5+1 = 16
+16 is not a prime number
+
+FUN
+1.
+Getting a list of things to do: And? And? And? And? And? That's it?
+
+2.
+and, or, and, or, and
